@@ -1,7 +1,7 @@
-2 Sokenzan, Crucible of Defiance
-4 Copperline Gorge
 1 Khenra Spellspear
+2 Sokenzan, Crucible of Defiance
 2 Urabrask's Forge
+4 Copperline Gorge
 4 Slickshot Show-Off
 
 
