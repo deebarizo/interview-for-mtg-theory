@@ -1,5 +1,5 @@
-describe("My Test Suite", () => {
-  it("My Test Case", () => {
-    expect(true).toEqual(true);
-  });
+import expectedResult from "./expectedResult";
+
+it("My Test Case", () => {
+  expect(expectedResult).toEqual(expectedResult);
 });
